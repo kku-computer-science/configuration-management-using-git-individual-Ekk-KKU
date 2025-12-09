@@ -2,3 +2,4 @@ Author: นายเอกวิชญ์ พิลาวรรณ
 Section: 4
 I am responsible for building the program framework and handling user input and algorithm selection.
 Team: จะรอดมั้ยเทอมนี้
+Semester 2/2568
